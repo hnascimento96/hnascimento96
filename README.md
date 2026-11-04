@@ -2,7 +2,7 @@
 
 Electrical engineer (UFAM) and PhD candidate in Mathematics (Unicamp). I work where mathematical modeling, statistics and machine learning meet: building models that are rigorous, explainable and tied to real decisions.
 
-I'm interested in **Data Science** and related areas where modeling and analytical thinking make a difference.
+My main interests are data science and related areas where modeling and analytical thinking make a difference.
 
 ## What I work with
 
